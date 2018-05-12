@@ -15,6 +15,8 @@ description: "Kept in the Dark is a novel by the 19th-century English novelist A
   \ Trollope. One of his lesser and later works, it nonetheless has interest. It was\
   \ published in eight monthly instalments in Good Words in 1882, and also in book\
   \ form in the same year.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22000#Kept-in-the-Dark
 gutenberg_issued: '2007-09-10'
 gutenberg_type: Text
 identifiers:
